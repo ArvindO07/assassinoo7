@@ -1,5 +1,5 @@
 - 👋 Hi, I’m arvind jangir
-- 👀 I’m interested in coding and playing crickrt
+- 👀 I’m interested in coding and playing cricket
 - 🌱 I’m currently learning data structure and sql
 - 💞️ I’m looking to collaborate on opportunity of team working
 - 📫 How to reach me ajarvind702@gmail.com
